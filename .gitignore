@@ -5,7 +5,6 @@ __pycache__/
 .env
 .env.*
 !.env.example
-data/cache/
 data/runs.sqlite3*
 *.egg-info/
 build/
