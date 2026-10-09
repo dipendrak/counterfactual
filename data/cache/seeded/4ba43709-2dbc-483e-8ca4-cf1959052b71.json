@@ -1,0 +1,1143 @@
+{
+  "accounts": [
+    {
+      "account": {
+        "_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+        "account_number": "5553726498629796",
+        "balance": 1600000,
+        "customer_id": "4ba43709-2dbc-483e-8ca4-cf1959052b71",
+        "nickname": "Synthetic USD cents demo_cushion dc41eaea75cb",
+        "rewards": 0,
+        "type": "Checking"
+      },
+      "bills": [],
+      "deposits": [
+        {
+          "_id": "0cf30cf3-0515-4eab-b48f-5626e3b10cad",
+          "amount": 269000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-07-25"
+        },
+        {
+          "_id": "0e4a29aa-78d9-4e33-9150-0613e18547cd",
+          "amount": 260000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-08-08"
+        },
+        {
+          "_id": "172ff011-1994-493d-970a-3589fd960641",
+          "amount": 269000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-11-15"
+        },
+        {
+          "_id": "1986fc44-e303-4345-a048-a068925f7d2b",
+          "amount": 260000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-09-19"
+        },
+        {
+          "_id": "2060dfb4-2430-41eb-83e4-a9218df73dfa",
+          "amount": 251000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-10-03"
+        },
+        {
+          "_id": "32a5a9d5-a40f-4339-b48d-e5437e4bb315",
+          "amount": 269000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-09-05"
+        },
+        {
+          "_id": "40bb8f16-90e2-4fc8-85c6-766a38d5dd41",
+          "amount": 251000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-05-30"
+        },
+        {
+          "_id": "43a9767b-633e-4a2d-917c-5c36a8373fd8",
+          "amount": 260000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-06-27"
+        },
+        {
+          "_id": "4b4311b5-82a2-4d8d-b59c-7bad958cc57d",
+          "amount": 260000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-02-21"
+        },
+        {
+          "_id": "4ca0c66e-d8d4-4d6a-9184-89e74d8bd4af",
+          "amount": 260000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-11-29"
+        },
+        {
+          "_id": "7951addb-af44-43a8-964b-aedeb371d1d8",
+          "amount": 251000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-08-22"
+        },
+        {
+          "_id": "86aca453-8725-40d7-a48b-1f394732d9ba",
+          "amount": 269000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-03-21"
+        },
+        {
+          "_id": "89d5f6f3-d956-4e0f-98ac-5efa774297e5",
+          "amount": 251000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-01-24"
+        },
+        {
+          "_id": "8c83b6b9-e89c-4446-b781-c1853c3d22dd",
+          "amount": 251000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-11-01"
+        },
+        {
+          "_id": "93c55193-cbac-4386-a164-e5fc16c6c40e",
+          "amount": 251000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-03-07"
+        },
+        {
+          "_id": "976af44b-78cf-4aeb-9a0e-e7ac3f23900c",
+          "amount": 269000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-06-13"
+        },
+        {
+          "_id": "a33a0772-c4d5-48fc-bcf3-c7729a0057fa",
+          "amount": 251000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-07-11"
+        },
+        {
+          "_id": "b51afb08-fc2e-4c6c-8c57-1bb8475e9828",
+          "amount": 260000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-01-10"
+        },
+        {
+          "_id": "b7d4bc92-94fe-4f55-92ee-f19c50ee5ba3",
+          "amount": 251000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-12-13"
+        },
+        {
+          "_id": "b9ed8d31-b857-4da8-8b87-bd0b1da0accf",
+          "amount": 260000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-10-18"
+        },
+        {
+          "_id": "c09c97d3-c4c3-4339-b63e-ae9562bbc54a",
+          "amount": 260000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-05-16"
+        },
+        {
+          "_id": "c3b76e87-3671-46e5-94c6-2600aba8d52d",
+          "amount": 260000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-04-04"
+        },
+        {
+          "_id": "dbfdfb80-0988-4265-ba8c-d44ebe193eed",
+          "amount": 269000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-12-27"
+        },
+        {
+          "_id": "ebbcf8d5-cc6b-44a7-aa83-97c2aa372d75",
+          "amount": 269000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-05-02"
+        },
+        {
+          "_id": "f78fe34b-79e8-45b7-be73-5dcec695c666",
+          "amount": 251000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-04-18"
+        },
+        {
+          "_id": "f96ebd30-f74c-4b79-9595-523b07e53597",
+          "amount": 269000,
+          "description": "Payroll dc41eaea75cb demo_cushion",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-02-07"
+        }
+      ],
+      "loans": [],
+      "monetary_unit": "usd_cents",
+      "purchases": [
+        {
+          "_id": "02184bef-6575-437c-97f3-26c4b14a3a29",
+          "amount": 90000,
+          "description": "Synthetic dc41eaea75cb demo_cushion_rent_demo_cushion_6",
+          "medium": "balance",
+          "merchant_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-04-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "09643351-57e5-4107-80b5-a92d0fda8fe4",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_9",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-08-05",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "10b2ab5f-aa6b-4f23-8f87-552322b2e591",
+          "amount": 8500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_insurance_demo_cushion_11",
+          "medium": "balance",
+          "merchant_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-10-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "141c437d-373e-4a61-ae0a-d09fdf4a54b8",
+          "amount": 8500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_insurance_demo_cushion_4",
+          "medium": "balance",
+          "merchant_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-05-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "168c62d7-9748-4fa8-98ef-8d345c76bb5b",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_21",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-05-13",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "1fdeb522-0ac2-4691-a6ec-531e04887f68",
+          "amount": 90000,
+          "description": "Synthetic dc41eaea75cb demo_cushion_rent_demo_cushion_1",
+          "medium": "balance",
+          "merchant_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-08-30",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "2628c401-a584-4e93-a8e7-88f068c04c6f",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_33",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-02-18",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "277a721d-75db-4b5b-8d33-6cd266bb23ba",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_32",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-02-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "28081897-70b9-4e37-8034-9f741dccb99f",
+          "amount": 8500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_insurance_demo_cushion_10",
+          "medium": "balance",
+          "merchant_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-11-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "288dd65c-adbe-4a75-b7a7-7d87f70b7b08",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_48",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-11-05",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "2891eb23-bfe0-4d96-bc64-ecb50e17d4c2",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_13",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-07-08",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "29b090af-2ea2-4a2b-951a-8c523304c55d",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_0",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-10-07",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "2b04c4d1-32af-4975-ba22-068ffc7d34e9",
+          "amount": 90000,
+          "description": "Synthetic dc41eaea75cb demo_cushion_rent_demo_cushion_7",
+          "medium": "balance",
+          "merchant_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-03-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "37a5c424-907c-4475-9f95-6e36b4475912",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_3",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-09-16",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3862b1b2-1915-49e1-822e-00a4d9c4255a",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_40",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-12-31",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3d07aa2e-45f1-43a5-aedb-63c264f31bff",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_8",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-08-12",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4063fa72-8a6d-466f-9212-29b1addd1aac",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_24",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-04-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4075dfc4-8f99-4de4-8701-8fb72abc0e0e",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_37",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-01-21",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "412176a7-57b8-4979-9037-48446a1c6cd8",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_45",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-11-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "414c361e-6ea7-4bc9-a5db-904302e75cd3",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_4",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-09-09",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "430b263c-c5fb-40d7-8a6a-c47eea2f732f",
+          "amount": 90000,
+          "description": "Synthetic dc41eaea75cb demo_cushion_rent_demo_cushion_9",
+          "medium": "balance",
+          "merchant_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-01-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4437eb3d-a10c-43fc-8581-340fca176043",
+          "amount": 90000,
+          "description": "Synthetic dc41eaea75cb demo_cushion_rent_demo_cushion_10",
+          "medium": "balance",
+          "merchant_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-12-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "498f3573-e2f8-46ae-90f4-97e8f831c50b",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_46",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-11-19",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "55be0185-c691-4741-a321-ae7d7b3fead6",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_41",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-12-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "5b8109f7-b6cd-4c67-a1ce-a2cd65cc2763",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_49",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-10-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "5ea0f30f-7f78-4808-a094-06dc311fbf2a",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_23",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-04-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "5eaa719c-3ff0-4da9-b99e-ba69616657ad",
+          "amount": 8500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_insurance_demo_cushion_3",
+          "medium": "balance",
+          "merchant_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-06-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "608da0dd-88d5-43d3-bd6e-02a1386d8837",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_28",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-03-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6420b673-9db7-4aa7-bb4c-4a1e25a2d273",
+          "amount": 8500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_insurance_demo_cushion_9",
+          "medium": "balance",
+          "merchant_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-12-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6e63f718-31b6-49cc-859d-0345cd0e6eb2",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_38",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-01-14",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "71380f08-93b9-448c-9556-1cbda8959569",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_50",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-10-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "73901df0-5d22-4f04-828d-65f4848cf906",
+          "amount": 8500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_insurance_demo_cushion_6",
+          "medium": "balance",
+          "merchant_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-03-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "7470478a-bb36-451e-b23e-85ab49779c35",
+          "amount": 90000,
+          "description": "Synthetic dc41eaea75cb demo_cushion_rent_demo_cushion_4",
+          "medium": "balance",
+          "merchant_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-06-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "7478e05f-575f-425a-bc4c-856c4ebc1250",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_22",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-05-06",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "777e1946-0e53-4c08-a7c0-57458aafeb3b",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_36",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-01-28",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "78f8dba2-36b8-49e5-8055-0e15a0def933",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_6",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-08-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "80dd76a5-7a1f-4e7d-9ad6-6c35af08a70d",
+          "amount": 8500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_insurance_demo_cushion_0",
+          "medium": "balance",
+          "merchant_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-09-21",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "85f72a2e-d437-40ed-8363-ad9f0ee57be3",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_16",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-06-17",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "88c4e216-7264-4f1f-bfb6-d91359089f30",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_26",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-04-08",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "899fd2ed-6021-4183-ba5c-c81f30f7d059",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_43",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-12-10",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "8cc932fb-e864-4881-b869-9c652a5350cc",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_42",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-12-17",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "8e17cc28-3e04-4623-b246-5d7eef16a634",
+          "amount": 8500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_insurance_demo_cushion_2",
+          "medium": "balance",
+          "merchant_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-07-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "93158aec-ff35-4f77-856d-06df2fd299c7",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_20",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-05-20",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "94604edd-2e84-463c-9d11-0505dc3d6af4",
+          "amount": 90000,
+          "description": "Synthetic dc41eaea75cb demo_cushion_rent_demo_cushion_0",
+          "medium": "balance",
+          "merchant_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-09-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "975f3c3f-5c29-49db-9fcb-b4c0c017f7c8",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_7",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-08-19",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9a1dd900-263b-4ce5-9a53-2e8c4ea5c4ac",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_34",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-02-11",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9d7b0825-7d81-4e84-83c5-0523f2126c1c",
+          "amount": 90000,
+          "description": "Synthetic dc41eaea75cb demo_cushion_rent_demo_cushion_2",
+          "medium": "balance",
+          "merchant_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-07-31",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9e7dd446-fdf3-4737-98c6-646e16f7c6ef",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_11",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-07-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9eb7ef3a-5a92-4f55-aa1d-3cfeea57410f",
+          "amount": 90000,
+          "description": "Synthetic dc41eaea75cb demo_cushion_rent_demo_cushion_11",
+          "medium": "balance",
+          "merchant_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-11-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "a9208efa-ac0b-4f75-b5e6-2ac10b87802d",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_27",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-04-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ae5ecce7-163c-4939-b52b-835a1fb67b06",
+          "amount": 90000,
+          "description": "Synthetic dc41eaea75cb demo_cushion_rent_demo_cushion_3",
+          "medium": "balance",
+          "merchant_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-07-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "b02eec73-3956-42fc-8216-f0e45cb8f61e",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_31",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-03-04",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "b23f8b7c-8567-4224-9f78-620f24fcfb71",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_12",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-07-15",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "b2b29273-3e90-4994-bdbc-26a7fad8741c",
+          "amount": 8500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_insurance_demo_cushion_7",
+          "medium": "balance",
+          "merchant_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-02-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "b2e89ca6-4a01-40af-86db-e4019ed125f2",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_1",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-09-30",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "bb4523ec-6ad8-4f2a-b1fd-39290662e2bd",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_17",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-06-10",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c1aaa054-5ee9-4768-9b9b-05fd09f273c8",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_39",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-01-07",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c46496c0-4bc1-46c1-aab3-164a56b71c37",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_15",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-06-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c693d37e-88bf-4e1b-b928-d08640532b6a",
+          "amount": 90000,
+          "description": "Synthetic dc41eaea75cb demo_cushion_rent_demo_cushion_8",
+          "medium": "balance",
+          "merchant_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-02-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c9b19288-5b84-473b-a15e-e0954a48d6ce",
+          "amount": 8500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_insurance_demo_cushion_5",
+          "medium": "balance",
+          "merchant_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-04-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ca293563-ebf6-4f39-b851-d316c3b9058c",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_35",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-02-04",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ce7e952e-a18f-4e62-8430-3b2f2af113f1",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_29",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-03-18",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d3f5efa1-c7ec-4536-8bd4-77374e1c79a4",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_14",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-07-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d3fd9067-fb88-4ec0-901e-cfccbe985ba1",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_47",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-11-12",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d4977a64-9f13-4bf5-8a47-ca72dff4ae24",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_10",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-07-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d63689e1-a7d1-4f9f-aafe-5c589c403c0a",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_25",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-04-15",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d71900ac-9cf3-4ebf-86b1-646ed48373a9",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_30",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-03-11",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d8fce725-4bbc-43c9-84ba-f80e3544c105",
+          "amount": 8500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_insurance_demo_cushion_8",
+          "medium": "balance",
+          "merchant_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-01-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "dd41d122-cd0b-48c9-9b7b-deae9e830ee5",
+          "amount": 8500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_insurance_demo_cushion_1",
+          "medium": "balance",
+          "merchant_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-08-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "e078d3e3-8103-4817-8076-808f764f7dcd",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_18",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-06-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "e54f2929-99e8-4b83-b5c0-3b1c9a241894",
+          "amount": 24500,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_5",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-09-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "e5f5848f-f29b-417b-a39e-3b4034b98bce",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_51",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-10-15",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f9b0f7a5-44c5-4666-8f0c-45e56c695d98",
+          "amount": 15750,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_2",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-09-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "fae1bdc2-7c8b-4795-8daa-566b2dca540d",
+          "amount": 90000,
+          "description": "Synthetic dc41eaea75cb demo_cushion_rent_demo_cushion_5",
+          "medium": "balance",
+          "merchant_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-05-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "fc47d9f0-9ce8-4d79-81bc-9f2baabe9cbf",
+          "amount": 7875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_44",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2025-12-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "fddb3dc7-a8d1-41a4-a814-7d821ccfca5b",
+          "amount": 21875,
+          "description": "Synthetic dc41eaea75cb demo_cushion_spend_19",
+          "medium": "balance",
+          "merchant_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+          "payer_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+          "purchase_date": "2026-05-27",
+          "status": "completed",
+          "type": "merchant"
+        }
+      ],
+      "transfers": [],
+      "withdrawals": []
+    }
+  ],
+  "as_of": "2026-10-09",
+  "base_url": "https://prod-api.nessieisreal.com",
+  "customer": {
+    "_id": "4ba43709-2dbc-483e-8ca4-cf1959052b71",
+    "address": {
+      "city": "McLean",
+      "state": "VA",
+      "street_name": "Synthetic Seed dc41eaea75cb demo_cushion",
+      "street_number": "100",
+      "zip": "22102"
+    },
+    "first_name": "Drew",
+    "last_name": "Synthetic Seed dc41eaea75cb"
+  },
+  "ingested_at": "2026-10-09T22:18:05.846549+00:00",
+  "merchants": [
+    {
+      "_id": "484aefa6-9b8d-43a0-bbf6-d95d8c1a5f84",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed dc41eaea75cb demo_cushion",
+        "street_number": "200",
+        "zip": "22102"
+      },
+      "category": "housing",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "Rent"
+    },
+    {
+      "_id": "585eeafd-0cec-4f7a-be2b-c2dac92c1c43",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed dc41eaea75cb demo_cushion",
+        "street_number": "201",
+        "zip": "22102"
+      },
+      "category": "insurance",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "Geico"
+    },
+    {
+      "_id": "e8fd9278-06ee-4021-92d8-54d88bbdca8f",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed dc41eaea75cb demo_cushion",
+        "street_number": "202",
+        "zip": "22102"
+      },
+      "category": "food",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "Grocer"
+    }
+  ],
+  "schema_version": 1,
+  "source": "nessie",
+  "unavailable_collections": [
+    {
+      "account_id": "5e6e5f92-cc8a-4855-aaa7-8a1fd656eeca",
+      "collection": "transfers",
+      "status": 404
+    }
+  ],
+  "unavailable_merchants": []
+}

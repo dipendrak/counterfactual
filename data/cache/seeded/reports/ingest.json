@@ -1,0 +1,15 @@
+{
+  "origin": "https://prod-api.nessieisreal.com",
+  "plan_hash": "e3ed4c8012ad41268fccf2b5e3f089453829fc34c4178d57091ade55a64fcf0a",
+  "profiles": [
+    {
+      "closing_balance_usd": 1100.0,
+      "customer_id": "7b3e4794-645b-481b-b8d1-a7a1ebffee47",
+      "deposits": 26,
+      "path": "data/cache/seeded/7b3e4794-645b-481b-b8d1-a7a1ebffee47.json",
+      "profile": "demo_jordan",
+      "purchases": 165,
+      "storage_unit": "usd_cents"
+    }
+  ]
+}

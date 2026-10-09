@@ -1,0 +1,1605 @@
+{
+  "as_of": "2026-10-09",
+  "note": "Dev A demo customer (Jordan). Nessie must generate all resource IDs.",
+  "profiles": [
+    {
+      "account": {
+        "_id": "account_demo_jordan",
+        "balance": 1100.0,
+        "customer_id": "demo_jordan",
+        "type": "Checking"
+      },
+      "customer": {
+        "_id": "demo_jordan",
+        "first_name": "Jordan",
+        "last_name": "(synthetic fixture)"
+      },
+      "deposits": [
+        {
+          "_id": "demo_jordan_income_0",
+          "amount": 1840,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-10-05"
+        },
+        {
+          "_id": "demo_jordan_income_1",
+          "amount": 1900,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-09-21"
+        },
+        {
+          "_id": "demo_jordan_income_2",
+          "amount": 1960,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-09-07"
+        },
+        {
+          "_id": "demo_jordan_income_3",
+          "amount": 1840,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-08-24"
+        },
+        {
+          "_id": "demo_jordan_income_4",
+          "amount": 1900,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-08-10"
+        },
+        {
+          "_id": "demo_jordan_income_5",
+          "amount": 1960,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-07-27"
+        },
+        {
+          "_id": "demo_jordan_income_6",
+          "amount": 1840,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-07-13"
+        },
+        {
+          "_id": "demo_jordan_income_7",
+          "amount": 1900,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-06-29"
+        },
+        {
+          "_id": "demo_jordan_income_8",
+          "amount": 1960,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-06-15"
+        },
+        {
+          "_id": "demo_jordan_income_9",
+          "amount": 1840,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-06-01"
+        },
+        {
+          "_id": "demo_jordan_income_10",
+          "amount": 1900,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-05-18"
+        },
+        {
+          "_id": "demo_jordan_income_11",
+          "amount": 1960,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-05-04"
+        },
+        {
+          "_id": "demo_jordan_income_12",
+          "amount": 1840,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-04-20"
+        },
+        {
+          "_id": "demo_jordan_income_13",
+          "amount": 1900,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-04-06"
+        },
+        {
+          "_id": "demo_jordan_income_14",
+          "amount": 1960,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-03-23"
+        },
+        {
+          "_id": "demo_jordan_income_15",
+          "amount": 1840,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-03-09"
+        },
+        {
+          "_id": "demo_jordan_income_16",
+          "amount": 1900,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-02-23"
+        },
+        {
+          "_id": "demo_jordan_income_17",
+          "amount": 1960,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-02-09"
+        },
+        {
+          "_id": "demo_jordan_income_18",
+          "amount": 1840,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-01-26"
+        },
+        {
+          "_id": "demo_jordan_income_19",
+          "amount": 1900,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2026-01-12"
+        },
+        {
+          "_id": "demo_jordan_income_20",
+          "amount": 1960,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2025-12-29"
+        },
+        {
+          "_id": "demo_jordan_income_21",
+          "amount": 1840,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2025-12-15"
+        },
+        {
+          "_id": "demo_jordan_income_22",
+          "amount": 1900,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2025-12-01"
+        },
+        {
+          "_id": "demo_jordan_income_23",
+          "amount": 1960,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2025-11-17"
+        },
+        {
+          "_id": "demo_jordan_income_24",
+          "amount": 1840,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2025-11-03"
+        },
+        {
+          "_id": "demo_jordan_income_25",
+          "amount": 1900,
+          "description": "Payroll",
+          "payee_id": "account_demo_jordan",
+          "status": "completed",
+          "transaction_date": "2025-10-20"
+        }
+      ],
+      "merchants": [
+        {
+          "_id": "rent_demo_jordan",
+          "category": [
+            "housing"
+          ],
+          "name": "Rent"
+        },
+        {
+          "_id": "car_demo_jordan",
+          "category": [
+            "loan"
+          ],
+          "name": "Ally Auto"
+        },
+        {
+          "_id": "geico_demo_jordan",
+          "category": [
+            "insurance"
+          ],
+          "name": "Geico"
+        },
+        {
+          "_id": "tmobile_demo_jordan",
+          "category": [
+            "utilities"
+          ],
+          "name": "T-Mobile"
+        },
+        {
+          "_id": "doordash_demo_jordan",
+          "category": [
+            "food delivery"
+          ],
+          "name": "DoorDash"
+        },
+        {
+          "_id": "gym_demo_jordan",
+          "category": [
+            "fitness"
+          ],
+          "name": "Planet Fitness"
+        },
+        {
+          "_id": "grocer_demo_jordan",
+          "category": [
+            "food"
+          ],
+          "name": "Harris Teeter"
+        }
+      ],
+      "profile": "demo_jordan",
+      "purchases": [
+        {
+          "_id": "demo_jordan_rent_0",
+          "amount": 1450,
+          "merchant_id": "rent_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-30",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_rent_1",
+          "amount": 1450,
+          "merchant_id": "rent_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-31",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_rent_2",
+          "amount": 1450,
+          "merchant_id": "rent_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-01",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_rent_3",
+          "amount": 1450,
+          "merchant_id": "rent_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-02",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_rent_4",
+          "amount": 1450,
+          "merchant_id": "rent_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-02",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_rent_5",
+          "amount": 1450,
+          "merchant_id": "rent_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-03",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_rent_6",
+          "amount": 1450,
+          "merchant_id": "rent_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-03",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_rent_7",
+          "amount": 1450,
+          "merchant_id": "rent_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-04",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_rent_8",
+          "amount": 1450,
+          "merchant_id": "rent_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-02-02",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_rent_9",
+          "amount": 1450,
+          "merchant_id": "rent_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-03",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_rent_10",
+          "amount": 1450,
+          "merchant_id": "rent_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-04",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_rent_11",
+          "amount": 1450,
+          "merchant_id": "rent_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-04",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_car_0",
+          "amount": 315,
+          "merchant_id": "car_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-18",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_car_1",
+          "amount": 315,
+          "merchant_id": "car_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-19",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_car_2",
+          "amount": 315,
+          "merchant_id": "car_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-20",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_car_3",
+          "amount": 315,
+          "merchant_id": "car_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-20",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_car_4",
+          "amount": 315,
+          "merchant_id": "car_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-21",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_car_5",
+          "amount": 315,
+          "merchant_id": "car_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-21",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_car_6",
+          "amount": 315,
+          "merchant_id": "car_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-22",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_car_7",
+          "amount": 315,
+          "merchant_id": "car_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-02-20",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_car_8",
+          "amount": 315,
+          "merchant_id": "car_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-21",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_car_9",
+          "amount": 315,
+          "merchant_id": "car_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-22",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_car_10",
+          "amount": 315,
+          "merchant_id": "car_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-22",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_car_11",
+          "amount": 315,
+          "merchant_id": "car_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-10-23",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_geico_0",
+          "amount": 168,
+          "merchant_id": "geico_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-24",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_geico_1",
+          "amount": 168,
+          "merchant_id": "geico_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-25",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_geico_2",
+          "amount": 168,
+          "merchant_id": "geico_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-26",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_geico_3",
+          "amount": 168,
+          "merchant_id": "geico_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-26",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_geico_4",
+          "amount": 168,
+          "merchant_id": "geico_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-27",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_geico_5",
+          "amount": 168,
+          "merchant_id": "geico_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-27",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_geico_6",
+          "amount": 168,
+          "merchant_id": "geico_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-28",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_geico_7",
+          "amount": 168,
+          "merchant_id": "geico_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-02-26",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_geico_8",
+          "amount": 168,
+          "merchant_id": "geico_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-27",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_geico_9",
+          "amount": 168,
+          "merchant_id": "geico_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-28",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_geico_10",
+          "amount": 168,
+          "merchant_id": "geico_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-28",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_geico_11",
+          "amount": 168,
+          "merchant_id": "geico_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-10-29",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_0",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-10-06",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_1",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-06",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_2",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-07",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_3",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-08",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_4",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-08",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_5",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-09",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_6",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-09",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_7",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-10",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_8",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-02-08",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_9",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-09",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_10",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-10",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_11",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-10",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_tmobile_12",
+          "amount": 95,
+          "merchant_id": "tmobile_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-10-11",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_0",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-10-08",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_1",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-10-01",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_2",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-24",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_3",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-17",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_4",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-10",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_5",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-03",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_6",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-27",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_7",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-20",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_8",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-13",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_9",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-06",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_10",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-30",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_11",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-23",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_12",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-16",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_13",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-09",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_14",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-02",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_15",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-25",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_16",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-18",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_17",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-11",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_18",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-04",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_19",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-28",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_20",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-21",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_21",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-14",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_22",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-07",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_23",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-30",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_24",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-23",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_25",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-16",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_26",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-09",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_27",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-02",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_28",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-26",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_29",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-19",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_30",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-12",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_31",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-05",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_32",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-02-26",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_33",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-02-19",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_34",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-02-12",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_35",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-02-05",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_36",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-29",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_37",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-22",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_38",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-15",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_39",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-08",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_40",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-01",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_41",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-25",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_42",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-18",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_43",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-11",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_44",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-04",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_45",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-27",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_46",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-20",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_47",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-13",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_48",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-06",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_49",
+          "amount": 58.0,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-10-30",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_50",
+          "amount": 59.74,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-10-23",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_doordash_51",
+          "amount": 56.26,
+          "merchant_id": "doordash_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-10-16",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_gym_0",
+          "amount": 25,
+          "merchant_id": "gym_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-27",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_gym_1",
+          "amount": 25,
+          "merchant_id": "gym_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-28",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_gym_2",
+          "amount": 25,
+          "merchant_id": "gym_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-29",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_gym_3",
+          "amount": 25,
+          "merchant_id": "gym_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-29",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_gym_4",
+          "amount": 25,
+          "merchant_id": "gym_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-30",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_gym_5",
+          "amount": 25,
+          "merchant_id": "gym_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-30",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_gym_6",
+          "amount": 25,
+          "merchant_id": "gym_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-31",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_gym_7",
+          "amount": 25,
+          "merchant_id": "gym_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-01",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_gym_8",
+          "amount": 25,
+          "merchant_id": "gym_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-30",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_gym_9",
+          "amount": 25,
+          "merchant_id": "gym_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-31",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_gym_10",
+          "amount": 25,
+          "merchant_id": "gym_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-01",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_gym_11",
+          "amount": 25,
+          "merchant_id": "gym_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-01",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_0",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-10-07",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_1",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-30",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_2",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-23",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_3",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-16",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_4",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-09",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_5",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-09-02",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_6",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-26",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_7",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-19",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_8",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-12",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_9",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-08-05",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_10",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-29",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_11",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-22",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_12",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-15",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_13",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-08",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_14",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-07-01",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_15",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-24",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_16",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-17",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_17",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-10",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_18",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-06-03",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_19",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-27",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_20",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-20",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_21",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-13",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_22",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-05-06",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_23",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-29",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_24",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-22",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_25",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-15",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_26",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-08",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_27",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-04-01",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_28",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-25",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_29",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-18",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_30",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-11",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_31",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-03-04",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_32",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-02-25",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_33",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-02-18",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_34",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-02-11",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_35",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-02-04",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_36",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-28",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_37",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-21",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_38",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-14",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_39",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2026-01-07",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_40",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-31",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_41",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-24",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_42",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-17",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_43",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-10",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_44",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-12-03",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_45",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-26",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_46",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-19",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_47",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-12",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_48",
+          "amount": 117.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-11-05",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_49",
+          "amount": 364.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-10-29",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_50",
+          "amount": 234.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-10-22",
+          "status": "completed"
+        },
+        {
+          "_id": "demo_jordan_spend_51",
+          "amount": 325.0,
+          "merchant_id": "grocer_demo_jordan",
+          "payer_id": "account_demo_jordan",
+          "purchase_date": "2025-10-15",
+          "status": "completed"
+        }
+      ]
+    }
+  ],
+  "source": "engineered_synthetic_population",
+  "status": "proposal_only_not_sent_to_nessie"
+}

@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "plan_hash": "e3ed4c8012ad41268fccf2b5e3f089453829fc34c4178d57091ade55a64fcf0a",
+  "created_resources": 200,
+  "profiles": {
+    "demo_jordan": {
+      "account_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+      "closing_balance": 110000,
+      "customer_id": "7b3e4794-645b-481b-b8d1-a7a1ebffee47",
+      "proposed_closing_balance": 1100.0,
+      "storage_unit": "usd_cents",
+      "verified_balance": 110000
+    }
+  }
+}

@@ -55,8 +55,11 @@ which is noise.
 - Measured on the fixture: 500 paths, each with 105 balances, rounded to cents.
 - `paths[i].balances[0]` is the opening balance and `balances[w]` is the end of week w.
   `first_breach_week` uses the same indexing.
-- If that janks in the browser, A can emit a p10/p50/p90 band per week plus 20 representative full
-  paths instead. That's about 20 minutes of work. Tell A which renders.
+- Ready if it janks: `core.payload.band_payload(result)` returns about 27 KB. It has the same summary
+  fields as `SimResult`, `paths` cut to 20 representative full paths (spread across the min-balance
+  ranking, including the worst and best), `paths_total`, and `band: {p10, p50, p90}`. Each band array
+  has one value per balance index, with the same indexing as `balances`. `SimResult` itself is
+  unchanged. Dev B can serve the band from `/run/{run_id}` or behind a query flag. Tell A which renders.
 
 ## Modelling notes
 - Balances are checked at week end only; a mid-week dip that recovers by Sunday isn't a breach.

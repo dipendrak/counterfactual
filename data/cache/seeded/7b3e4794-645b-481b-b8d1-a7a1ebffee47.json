@@ -1,0 +1,2191 @@
+{
+  "accounts": [
+    {
+      "account": {
+        "_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+        "account_number": "1381138491022789",
+        "balance": 110000,
+        "customer_id": "7b3e4794-645b-481b-b8d1-a7a1ebffee47",
+        "nickname": "Synthetic USD cents demo_jordan e3ed4c8012ad",
+        "rewards": 0,
+        "type": "Checking"
+      },
+      "bills": [],
+      "deposits": [
+        {
+          "_id": "0774ef1c-dc19-461c-a908-4b90da958a3a",
+          "amount": 184000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-08-24"
+        },
+        {
+          "_id": "128cdcc8-8323-4b87-9f35-35317fbc3778",
+          "amount": 184000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-06-01"
+        },
+        {
+          "_id": "32d3978b-7af3-4f00-8b8f-7f0251f7826e",
+          "amount": 196000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-11-17"
+        },
+        {
+          "_id": "42c2252d-d160-44fd-bc96-50add3d9159d",
+          "amount": 184000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-07-13"
+        },
+        {
+          "_id": "55235eee-7ace-4966-baeb-ae5bebb3488e",
+          "amount": 184000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-03-09"
+        },
+        {
+          "_id": "6062029b-f44c-46f2-8ad3-d844fc0eadd6",
+          "amount": 184000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-10-05"
+        },
+        {
+          "_id": "60cc89e3-f580-4e14-a59d-1efc89ffd3cc",
+          "amount": 190000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-04-06"
+        },
+        {
+          "_id": "6a4ff5da-af35-4817-82f7-b10b554f93d1",
+          "amount": 190000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-10-20"
+        },
+        {
+          "_id": "72d67736-f2ce-4d5a-a1bf-9f248926eedd",
+          "amount": 196000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-06-15"
+        },
+        {
+          "_id": "7c993910-2a7c-4b86-b05a-bad5e6bab037",
+          "amount": 190000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-01-12"
+        },
+        {
+          "_id": "7e7b71fe-668f-41e1-b082-bca7cd45930c",
+          "amount": 196000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-03-23"
+        },
+        {
+          "_id": "7f415926-aeff-400e-b661-e8bd0e9540a8",
+          "amount": 190000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-06-29"
+        },
+        {
+          "_id": "8935bdda-54be-409c-aeab-7506bfed6101",
+          "amount": 196000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-12-29"
+        },
+        {
+          "_id": "92ad155a-8a35-4971-9cc5-bf648f4761c4",
+          "amount": 184000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-12-15"
+        },
+        {
+          "_id": "96166b2a-42db-47ce-8fb3-fc229c92f554",
+          "amount": 190000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-02-23"
+        },
+        {
+          "_id": "96fd735d-732d-4a22-a04b-9d9d90f26bf9",
+          "amount": 184000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-11-03"
+        },
+        {
+          "_id": "9ace62bb-c2b4-4d21-948c-4971d74223a5",
+          "amount": 196000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-07-27"
+        },
+        {
+          "_id": "a24a4bd1-e662-4542-ae40-b24c94b01bdc",
+          "amount": 196000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-05-04"
+        },
+        {
+          "_id": "a504ad7e-199d-40ef-8127-a89a7aa6eb88",
+          "amount": 190000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-05-18"
+        },
+        {
+          "_id": "c8e34e07-7091-40d9-a2f3-bd44463ea279",
+          "amount": 184000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-04-20"
+        },
+        {
+          "_id": "d47aeaad-7503-499b-a2ec-a026d1a9c35e",
+          "amount": 190000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-09-21"
+        },
+        {
+          "_id": "e0a917aa-1178-4767-be2d-50fb1d8551dc",
+          "amount": 196000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-09-07"
+        },
+        {
+          "_id": "e110b7d1-88fe-4636-af69-08b2dab2227d",
+          "amount": 190000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-08-10"
+        },
+        {
+          "_id": "f36848d6-84c8-4e55-8cea-95bb9a371a18",
+          "amount": 184000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-01-26"
+        },
+        {
+          "_id": "fb123cb9-6175-4678-ba63-83aa67c9c8ae",
+          "amount": 190000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-12-01"
+        },
+        {
+          "_id": "fdf4b537-8e25-4ec2-a696-c221e94b4fbb",
+          "amount": 196000,
+          "description": "Payroll e3ed4c8012ad demo_jordan",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-02-09"
+        }
+      ],
+      "loans": [],
+      "monetary_unit": "usd_cents",
+      "purchases": [
+        {
+          "_id": "01d5b657-9511-4d0e-85c3-93a65d5d7939",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_28",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "03f937db-ee0a-4496-a3f1-080e2d994a2c",
+          "amount": 31500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_car_11",
+          "medium": "balance",
+          "merchant_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-10-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "044c5058-f075-44cf-b17e-b2d5cb54223c",
+          "amount": 31500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_car_0",
+          "medium": "balance",
+          "merchant_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-18",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "05184a7b-1b2d-4b6b-810a-7727a36dc4d3",
+          "amount": 145000,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_rent_5",
+          "medium": "balance",
+          "merchant_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "06440e9d-c107-4d55-8948-1aaa0cb6b87e",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_11",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "06f7231a-837d-4363-bbb7-4b06dcf628b8",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_44",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "074920bb-e5f2-4e37-8520-28999212944f",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_45",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-27",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "08f61ad5-bf7e-48a9-810e-92e625914372",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_22",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-07",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "0b4221f1-5932-40ac-92fd-c5add2e4eee0",
+          "amount": 2500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_gym_0",
+          "medium": "balance",
+          "merchant_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-27",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "0b481d6f-2128-4194-90a7-7eab4df5797c",
+          "amount": 2500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_gym_10",
+          "medium": "balance",
+          "merchant_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "1028cfe6-dcc3-4280-a235-4d2c17153d03",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_32",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-02-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "1054f3cf-b04c-4d9b-8ab1-10d1e2a1873b",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_24",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "11041ff4-a433-4339-b7eb-26ec01990193",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_48",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-06",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "136b5fa3-2dca-4438-bf70-7ba19ec58854",
+          "amount": 145000,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_rent_9",
+          "medium": "balance",
+          "merchant_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "138c33e8-b4ef-4275-af40-c838a1eed233",
+          "amount": 145000,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_rent_1",
+          "medium": "balance",
+          "merchant_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-31",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "141ea7ab-be45-4d4a-87f8-473e89a0571e",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_23",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-30",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "142332d8-6367-4ecc-8eea-dab803521e1a",
+          "amount": 31500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_car_5",
+          "medium": "balance",
+          "merchant_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-21",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "14291e52-6d0f-4707-ba8a-e4e2c9ba4d87",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_19",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-27",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "15f54b75-ed3d-4f70-8661-a318297e65be",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_16",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-17",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "1614a8de-7cd2-4afc-a628-401cd50de322",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_33",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-02-19",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "1758e330-daf0-41c0-87f9-646600cb01e4",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_48",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-05",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "18e5eaa0-5593-455d-b67f-3191ad061fb3",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_51",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-10-15",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "192f2357-fdd4-4701-9530-1a9d856510f7",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_10",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "198a2518-dce0-45e5-b1e3-95e76aa7b59d",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_5",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "1afcb4ca-d67c-4d6a-b3c5-650c8e175198",
+          "amount": 31500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_car_6",
+          "medium": "balance",
+          "merchant_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "1be7b5a2-26ea-4218-b2b5-b194af441a69",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_47",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-13",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "1c2426a2-a29e-4c99-970c-3c5bcb387dd7",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_11",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "1d7cbb60-834b-4186-983b-ae5b32890b61",
+          "amount": 31500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_car_9",
+          "medium": "balance",
+          "merchant_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "20c41983-4825-47c8-b4c4-ab3552e0261c",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_49",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-10-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "20f040c6-00ee-4e84-a945-ea40ebbe9089",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_16",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-18",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "227c952e-87f7-4995-a0f6-9595043d60b3",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_32",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-02-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "2612b67a-3510-4e62-b555-e6f332f02abd",
+          "amount": 2500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_gym_9",
+          "medium": "balance",
+          "merchant_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-31",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "26bb6506-0d7d-426a-88bd-40d35e783df3",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_9",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-05",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "27799c3a-dc3c-4f84-b382-08b9277282fa",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_8",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-02-08",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "2d45552b-8b03-4a2a-bf42-d526f898355a",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_13",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-09",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "2d855868-3a22-4906-8c65-7725a64e0364",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_50",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-10-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "2fc296e1-1a77-4c65-b057-df58869744a2",
+          "amount": 16800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_geico_11",
+          "medium": "balance",
+          "merchant_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-10-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3586766a-be13-4ac4-9738-1cb772b639ce",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_49",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-10-30",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "36b59aec-64b3-475e-a1bf-a28dd16b7929",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_20",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-21",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3a078814-cc33-4949-8dd9-31183483f395",
+          "amount": 16800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_geico_3",
+          "medium": "balance",
+          "merchant_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3bd0bdcf-e587-42a1-bebc-4c6f4986d3af",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_17",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-11",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3c2d5d8b-eda6-4576-9240-a29567a21a5a",
+          "amount": 145000,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_rent_2",
+          "medium": "balance",
+          "merchant_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3df0e6fa-05b8-4a54-b99b-eb3860807ea1",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_17",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-10",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3f27bbed-d807-4e90-81de-e89029df5bae",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_33",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-02-18",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "40411bb8-792b-441e-bea0-1b4bbc39c27b",
+          "amount": 2500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_gym_3",
+          "medium": "balance",
+          "merchant_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "40e77058-fb3c-4c51-8ec1-461722b6dd73",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_18",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-04",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "43dec025-7e66-461a-b542-2d73d6d5bd6a",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_9",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-09",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4668a75f-bc84-45d5-b1c1-6a458ddf05e7",
+          "amount": 16800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_geico_6",
+          "medium": "balance",
+          "merchant_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-28",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "485fc1fd-948a-489b-8a7d-7c4e263e2b18",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_8",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-13",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4afcfd89-66b8-4699-8b79-b67077ecd101",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_1",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-30",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4afe9f5c-ec2d-4cf8-b352-27171c1224c6",
+          "amount": 31500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_car_1",
+          "medium": "balance",
+          "merchant_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-19",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4bfed59e-eed2-4c63-bfe1-4d0afb9acb8e",
+          "amount": 31500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_car_7",
+          "medium": "balance",
+          "merchant_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-02-20",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4d842132-b42b-483c-9e33-51ac2dc8bb52",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_26",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-08",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4eefb11b-5d40-4393-b913-9d3e486357fe",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_14",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4f17a0a3-7ae8-43e9-97be-6b0f4b712c52",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_2",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4fe45d22-32e2-4548-b29e-5a1fbdd0de02",
+          "amount": 16800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_geico_7",
+          "medium": "balance",
+          "merchant_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-02-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4ff2e08d-6484-427e-be36-dc3f21c3e763",
+          "amount": 16800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_geico_0",
+          "medium": "balance",
+          "merchant_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "505db3c6-09e4-42d1-b5fc-5f7537d5617c",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_38",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-15",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "525b9ab8-7c1d-4187-b1b8-3e5f40fc4066",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_47",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-12",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "5542b79b-930e-4198-8b27-6393eee148df",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_12",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-10-11",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "55c0d2af-1c24-485b-9acb-0980bf32d7d0",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_39",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-08",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "58891331-c254-42f2-8ed2-f98cc1dc23dd",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_6",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-27",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "5b24d442-3beb-46d0-ae60-c35f139970e0",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_10",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-30",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "5bb944cb-28c7-4c99-9429-d2faf48c2d75",
+          "amount": 145000,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_rent_7",
+          "medium": "balance",
+          "merchant_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-04",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "5cf6be82-fffa-484f-bef7-7a2a3a5dc034",
+          "amount": 145000,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_rent_6",
+          "medium": "balance",
+          "merchant_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "5dc8f347-2582-4833-b99a-521e24ae7538",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_37",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "5fc7e2fc-22dc-4cb1-b6c7-16b4fd33a7dd",
+          "amount": 16800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_geico_1",
+          "medium": "balance",
+          "merchant_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "635f20bc-eae0-462c-8428-a5d66f44a32b",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_24",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "64bb4101-9cdf-4331-8f07-faac8c0b12c9",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_1",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-06",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "656f4fef-3bbb-497d-adbd-e412424c0719",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_7",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-19",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "67438d46-e998-4928-aebb-226557ecf678",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_15",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "674eec23-8fcd-433c-9fda-e4640a2f5044",
+          "amount": 2500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_gym_8",
+          "medium": "balance",
+          "merchant_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-30",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "67611814-2ab1-47c1-bf5f-146b9ef5ce5f",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_41",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "69d2a9e8-85c9-4839-be6e-15b405faedfa",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_25",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-15",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6b03a8f1-acb9-4d33-9c14-fcc0d4cd9700",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_29",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-19",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6b1dcb84-7940-4126-8b87-74db4cec13ac",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_50",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-10-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6b9ec42f-8a27-41f4-b518-09a33696c1f1",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_3",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-17",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6be188ad-f9a0-4e42-9195-6009aa8b7a52",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_43",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-11",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6d047563-deca-4e57-82f7-6602e704852a",
+          "amount": 145000,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_rent_11",
+          "medium": "balance",
+          "merchant_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-04",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6e1dbe2d-e3be-4f29-b15c-4e6ad511538b",
+          "amount": 16800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_geico_10",
+          "medium": "balance",
+          "merchant_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-28",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6e287e74-7b4d-4ac5-b376-0a0f278ea50b",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_30",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-12",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6eadfcea-849e-46f3-a36d-aeeeb29abc24",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_0",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-10-07",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "745c7017-0f78-40d7-9d4d-e2cdd7309963",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_20",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-20",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "760a9dc8-fb8f-493d-8d84-31d7733bba79",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_3",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-08",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "78676f5a-ebc6-4fa2-ba4a-2ea2b372900c",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_28",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "7c34a289-2108-4530-a70b-dd2817222979",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_15",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "7e2d85d8-7b6a-43fd-8b37-fd79e953afaa",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_27",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "7f63d147-ea2a-4e18-868e-838ec5e8d61d",
+          "amount": 31500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_car_8",
+          "medium": "balance",
+          "merchant_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-21",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "7fa5959e-2c6b-4e1a-8f44-787b22aa47bd",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_12",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-16",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "825b6913-3703-4776-81e2-78694c51119a",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_22",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-06",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "82cb1bb9-ab5e-41d0-8ac3-62f8e033a036",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_45",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "852f8c94-06dd-422e-8e26-d1d6852e990b",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_26",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-09",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "86cf9f27-047a-4ac2-9863-217bafb72b79",
+          "amount": 2500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_gym_11",
+          "medium": "balance",
+          "merchant_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "89361a68-bd30-4eb1-9872-734de70abbae",
+          "amount": 2500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_gym_6",
+          "medium": "balance",
+          "merchant_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-31",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "8f18553e-41b4-4b22-8371-e782870d1e43",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_18",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9088409f-d8e1-477c-8d37-c8cb63b86d72",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_7",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-10",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9656f0c9-bdec-400a-8536-3db8c464781d",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_1",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-10-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "97860965-05eb-4934-ab5b-b7761a4fc392",
+          "amount": 2500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_gym_4",
+          "medium": "balance",
+          "merchant_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-30",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "988bbb38-cd52-4ef7-a7f1-ccfaea94e22f",
+          "amount": 145000,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_rent_3",
+          "medium": "balance",
+          "merchant_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9cec25f1-6f36-4a36-974e-5494b4928f3d",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_23",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9d6e6b75-b8f1-4a48-bb37-d6c63da3d8d5",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_42",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-18",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9e0f14ff-2320-4a7a-b986-8cae2d04146d",
+          "amount": 2500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_gym_2",
+          "medium": "balance",
+          "merchant_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9f72537d-e574-4ef1-9404-d16b80f51e7d",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_51",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-10-16",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "a06f40d9-2571-4734-8aa8-55186d2f82cf",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_25",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-16",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "a09623e9-790d-42d1-a3cb-c69848c97035",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_29",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-18",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "a33bf3ea-309a-4b39-a251-ddd578d7f0d5",
+          "amount": 31500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_car_3",
+          "medium": "balance",
+          "merchant_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-20",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "a366c95c-76af-4ee5-bfb7-def4a432887a",
+          "amount": 145000,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_rent_0",
+          "medium": "balance",
+          "merchant_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-30",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "a5766b4b-e2dd-4c80-9f15-7735ce3c0fef",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_35",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-02-05",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "a9717860-cb5e-4b9b-adcc-c63d666b5715",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_37",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-21",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "aa181761-28c9-4775-ab59-86e51877f1fd",
+          "amount": 2500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_gym_7",
+          "medium": "balance",
+          "merchant_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ab921246-72e9-49db-9ed7-38ba491dedf1",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_12",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-15",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ac71797f-34de-4bd3-80ee-73e61f22f5a3",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_3",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-16",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ad14f9fc-3c00-4c8c-b584-6a8f27d2c8fd",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_36",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "b0970fa4-4bde-44f6-b965-38572243fb71",
+          "amount": 16800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_geico_4",
+          "medium": "balance",
+          "merchant_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-27",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "b17f25f0-a925-4171-be8a-2518f3e96106",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_30",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-11",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "b420364c-5c05-4e59-9abd-afa72541abcd",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_38",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-14",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "b4337ade-4110-4f83-9e0c-901fd727deb0",
+          "amount": 31500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_car_4",
+          "medium": "balance",
+          "merchant_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-21",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "b6971e7f-16c1-4fbf-961f-c46e587742b6",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_39",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-07",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "b6ee40cb-d793-4186-a88d-a7078d61ab0a",
+          "amount": 145000,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_rent_10",
+          "medium": "balance",
+          "merchant_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-04",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "bc2ce00a-8ef8-40d0-a2c7-31f23a87b523",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_4",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-08",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "bfcb8ca7-4e9a-484e-9902-bd400dc3dbc2",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_43",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-10",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c0c690c7-7e6f-40d2-86df-dcf36709f811",
+          "amount": 31500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_car_2",
+          "medium": "balance",
+          "merchant_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-20",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c1f73da7-e972-45eb-a629-7dec02dfc1b5",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_31",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-05",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c3c227ee-e85b-4a27-b480-6a1164aaea78",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_6",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-09",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c5a3ac5d-21d1-42e0-b383-53dd9a9b2bdd",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_34",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-02-12",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c65d75db-c84d-4635-bdde-d6a5c2cbeb65",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_40",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c8224708-20de-4190-af4f-e14b6316a535",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_42",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-17",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c93816c9-e996-4ff1-afa3-2f940349fcb7",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_2",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "cbdabce5-09bb-4a04-8b63-e6d1d45a0a01",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_36",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-28",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "cde7ed93-236e-4bb1-8f84-8c24b6295502",
+          "amount": 16800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_geico_5",
+          "medium": "balance",
+          "merchant_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-27",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ce35af0f-562b-4471-8ad0-56b6b25e13c6",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_5",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d0ec3195-f58e-4af1-a36d-640f3efd5fd0",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_46",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-20",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d1e4d646-c7f1-4d28-817a-04d188d984f0",
+          "amount": 16800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_geico_9",
+          "medium": "balance",
+          "merchant_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-28",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d2d27218-47a3-4e8e-8a85-1d3a374bdea8",
+          "amount": 145000,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_rent_8",
+          "medium": "balance",
+          "merchant_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-02-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d3bc8737-6efa-4eef-bf4b-fea516204728",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_41",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d6ea69bf-beae-4f38-a1ed-03f107734465",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_21",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-13",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "da10e1f2-d0e0-450b-8cc3-46c0fe60cd44",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_5",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-09",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "dd1c18d2-97a9-4375-b359-7f15742873f8",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_0",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-10-06",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ddd5f13f-82f0-4452-8c06-a33c75a0cabc",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_35",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-02-04",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ded64832-ab25-4dba-a868-6c1cb000beb9",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_27",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "e1fb1ed7-c407-435e-8866-b3948cffc5cb",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_21",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-14",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "e3fccf04-2463-4e25-9189-069ca6d20905",
+          "amount": 36400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_13",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-08",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "e470d152-c309-4fbe-8167-064568f0cd43",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_8",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-12",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "e54ad915-9f6f-4896-8baf-a8b77ab925ce",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_2",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-07",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "e695cba2-74e3-4f3c-84ed-93e72d3141e7",
+          "amount": 2500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_gym_1",
+          "medium": "balance",
+          "merchant_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-28",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ebfac94c-42a7-49c3-857b-867825da65da",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_10",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-10",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "eed5ba1e-a02b-403b-9aba-f8dd040dbba7",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_34",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-02-11",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f2a1850e-8e1a-4420-96ec-f7050ab56022",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_0",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-10-08",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f3194f7b-56f9-420f-bfe3-cd6dd47ea325",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_19",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-05-28",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f338b3e6-2876-4a5b-8599-b52509b4eb07",
+          "amount": 5974,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_44",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-04",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f36d0684-8af1-4d5b-93b2-08fa84bd0722",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_6",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f5eb5468-c351-426c-ac4b-e5e253276ef5",
+          "amount": 32500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_31",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-03-04",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f5f86ae8-fbf6-47c7-9577-ed2af0fa7eea",
+          "amount": 31500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_car_10",
+          "medium": "balance",
+          "merchant_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f6fbb2f0-7338-4839-a113-f5005a674457",
+          "amount": 2500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_gym_5",
+          "medium": "balance",
+          "merchant_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-04-30",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f7882b6c-8bcb-4550-a63b-0622803b0f2a",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_7",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-20",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f8323e7f-c19e-4d14-9280-6f2ee5e84f15",
+          "amount": 5800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_4",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-10",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f959ef8e-0c28-446d-9d06-35f1788b429a",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_46",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-19",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "fa41a2b0-99cc-48b8-ac53-b0e3309dd00a",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_40",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-12-31",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "fa893005-0348-47fd-ad80-63ee90e6745f",
+          "amount": 5626,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_doordash_9",
+          "medium": "balance",
+          "merchant_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-08-06",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "face11dc-f61c-4718-855b-c1bd13fd476d",
+          "amount": 23400,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_14",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "fb40ad07-9a25-4362-ae7f-c3cbd69caac4",
+          "amount": 16800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_geico_2",
+          "medium": "balance",
+          "merchant_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-07-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "fd9d8d8c-1044-4bf7-9f52-8f97fb6b6f8e",
+          "amount": 16800,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_geico_8",
+          "medium": "balance",
+          "merchant_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-01-27",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "fec3f398-3d02-40a0-8658-03609602081b",
+          "amount": 9500,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_tmobile_11",
+          "medium": "balance",
+          "merchant_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2025-11-10",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "feeca418-e39f-4cef-9356-00a888041ff0",
+          "amount": 11700,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_spend_4",
+          "medium": "balance",
+          "merchant_id": "cd233293-da26-40c8-9772-54604a1f022c",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-09-09",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ff126407-b67c-4b6f-9eff-955164af203f",
+          "amount": 145000,
+          "description": "Synthetic e3ed4c8012ad demo_jordan_rent_4",
+          "medium": "balance",
+          "merchant_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+          "payer_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+          "purchase_date": "2026-06-02",
+          "status": "completed",
+          "type": "merchant"
+        }
+      ],
+      "transfers": [],
+      "withdrawals": []
+    }
+  ],
+  "as_of": "2026-10-09",
+  "base_url": "https://prod-api.nessieisreal.com",
+  "customer": {
+    "_id": "7b3e4794-645b-481b-b8d1-a7a1ebffee47",
+    "address": {
+      "city": "McLean",
+      "state": "VA",
+      "street_name": "Synthetic Seed e3ed4c8012ad demo_jordan",
+      "street_number": "100",
+      "zip": "22102"
+    },
+    "first_name": "Jordan",
+    "last_name": "Synthetic Seed e3ed4c8012ad"
+  },
+  "ingested_at": "2026-10-09T22:22:55.427154+00:00",
+  "merchants": [
+    {
+      "_id": "08c64faf-bc7e-4fa8-98c4-fbb76fb22f83",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed e3ed4c8012ad demo_jordan",
+        "street_number": "204",
+        "zip": "22102"
+      },
+      "category": "food delivery",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "DoorDash"
+    },
+    {
+      "_id": "24b81d07-8a4a-4cc0-86b3-f801d848216d",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed e3ed4c8012ad demo_jordan",
+        "street_number": "201",
+        "zip": "22102"
+      },
+      "category": "loan",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "Ally Auto"
+    },
+    {
+      "_id": "3444fcb3-a5e7-4f3a-b9d2-d7aae6c4821d",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed e3ed4c8012ad demo_jordan",
+        "street_number": "203",
+        "zip": "22102"
+      },
+      "category": "utilities",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "T-Mobile"
+    },
+    {
+      "_id": "5c588632-87f9-45e5-b9bc-0eacbe98b4cb",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed e3ed4c8012ad demo_jordan",
+        "street_number": "200",
+        "zip": "22102"
+      },
+      "category": "housing",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "Rent"
+    },
+    {
+      "_id": "92557d4d-35ed-46c2-91ef-8b6ec7eb3611",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed e3ed4c8012ad demo_jordan",
+        "street_number": "205",
+        "zip": "22102"
+      },
+      "category": "fitness",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "Planet Fitness"
+    },
+    {
+      "_id": "9b2d50f6-d656-4940-b933-e2a55202217c",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed e3ed4c8012ad demo_jordan",
+        "street_number": "202",
+        "zip": "22102"
+      },
+      "category": "insurance",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "Geico"
+    },
+    {
+      "_id": "cd233293-da26-40c8-9772-54604a1f022c",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed e3ed4c8012ad demo_jordan",
+        "street_number": "206",
+        "zip": "22102"
+      },
+      "category": "food",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "Harris Teeter"
+    }
+  ],
+  "monetary_convention": "User opted for integer USD cents storage; models/deltas use USD dollars",
+  "population_origin": "engineered_synthetic_population",
+  "schema_version": 1,
+  "seed_monetary_policy": "integer_cents_storage",
+  "seed_plan_hash": "e3ed4c8012ad41268fccf2b5e3f089453829fc34c4178d57091ade55a64fcf0a",
+  "seed_profile_reference": "demo_jordan",
+  "source": "nessie",
+  "unavailable_collections": [
+    {
+      "account_id": "df68331d-e991-4218-8b49-4d2bc59ee79e",
+      "collection": "transfers",
+      "status": 404
+    }
+  ],
+  "unavailable_merchants": []
+}

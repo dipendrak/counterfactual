@@ -1,0 +1,1031 @@
+{
+  "accounts": [
+    {
+      "account": {
+        "_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+        "account_number": "2231980758276300",
+        "balance": 90000,
+        "customer_id": "27dc775c-a552-453f-831b-5cf060de367c",
+        "nickname": "Synthetic USD cents demo_monthly dc41eaea75cb",
+        "rewards": 0,
+        "type": "Checking"
+      },
+      "bills": [],
+      "deposits": [
+        {
+          "_id": "2413d31b-21e6-4965-917d-ce4b63e0a14b",
+          "amount": 311000,
+          "description": "Payroll dc41eaea75cb demo_monthly",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-04-06"
+        },
+        {
+          "_id": "362bd2aa-bcbb-427f-b874-5c686fb6e40b",
+          "amount": 329000,
+          "description": "Payroll dc41eaea75cb demo_monthly",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-05-06"
+        },
+        {
+          "_id": "44f9e145-a70f-4bf1-b672-7b50593c233a",
+          "amount": 320000,
+          "description": "Payroll dc41eaea75cb demo_monthly",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-12-07"
+        },
+        {
+          "_id": "49326a53-54da-4f58-a238-59fac94a0758",
+          "amount": 320000,
+          "description": "Payroll dc41eaea75cb demo_monthly",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-06-05"
+        },
+        {
+          "_id": "526741e5-6c15-4821-a2b7-0b683ce43a29",
+          "amount": 320000,
+          "description": "Payroll dc41eaea75cb demo_monthly",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-09-03"
+        },
+        {
+          "_id": "6078ae29-defe-439a-8f01-9ba157bf4129",
+          "amount": 329000,
+          "description": "Payroll dc41eaea75cb demo_monthly",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-02-05"
+        },
+        {
+          "_id": "68959116-7646-4ea8-89b9-be85a2f7e5c4",
+          "amount": 311000,
+          "description": "Payroll dc41eaea75cb demo_monthly",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-07-05"
+        },
+        {
+          "_id": "842fe6d7-9f8e-4414-a5d0-d1cf15c7dbfc",
+          "amount": 311000,
+          "description": "Payroll dc41eaea75cb demo_monthly",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-01-06"
+        },
+        {
+          "_id": "92790821-6b2e-4c00-8c58-487ba6bb1d27",
+          "amount": 311000,
+          "description": "Payroll dc41eaea75cb demo_monthly",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-10-03"
+        },
+        {
+          "_id": "9418e116-67a0-41a2-828b-440367fdb621",
+          "amount": 329000,
+          "description": "Payroll dc41eaea75cb demo_monthly",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-08-04"
+        },
+        {
+          "_id": "9cd7fbcc-a831-4ab6-b45a-784e7271fc4e",
+          "amount": 320000,
+          "description": "Payroll dc41eaea75cb demo_monthly",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2026-03-07"
+        },
+        {
+          "_id": "ab53d17a-8e62-468b-97d5-9722341fb15d",
+          "amount": 329000,
+          "description": "Payroll dc41eaea75cb demo_monthly",
+          "medium": "balance",
+          "status": "completed",
+          "transaction_date": "2025-11-07"
+        }
+      ],
+      "loans": [],
+      "monetary_unit": "usd_cents",
+      "purchases": [
+        {
+          "_id": "07f4f11e-0204-4ac0-901e-089e25367b6b",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_35",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-02-04",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "0e8514bf-a543-4d68-bb1e-32b2e18a07f8",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_50",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-10-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "16995ab0-a4c7-41d1-b160-9c84a81160e5",
+          "amount": 165000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_rent_demo_monthly_2",
+          "medium": "balance",
+          "merchant_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-07-31",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "1d0d38f6-873c-435e-9b89-5a9990740f1e",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_31",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-03-04",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "1da87d83-373e-456d-87a3-878ad30e44ea",
+          "amount": 165000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_rent_demo_monthly_0",
+          "medium": "balance",
+          "merchant_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-09-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "26737933-a354-4db7-9c92-a16db73ff0f0",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_28",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-03-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "29f9eb00-e8d4-443d-84be-c34d40cc42e6",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_21",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-05-13",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "2b390e3b-e592-49af-bb9e-d01ce4b8a5d8",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_32",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-02-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "2bf042a6-4325-456d-885a-e675b5b2183a",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_44",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-12-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "31dde42c-31ca-4885-8637-000319e6360c",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_13",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-07-08",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "32d3acb2-d43c-4e0d-bc5c-6a57254a5a9c",
+          "amount": 18000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_insurance_demo_monthly_2",
+          "medium": "balance",
+          "merchant_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-07-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "34518e28-2bfe-48ef-89c0-3eeba3b80f3f",
+          "amount": 165000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_rent_demo_monthly_10",
+          "medium": "balance",
+          "merchant_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-12-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "35d42c0b-02f5-471f-be8b-e22a74b9e3d8",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_38",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-01-14",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3a9dfc5b-439e-415e-a00a-f9d038ab0117",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_37",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-01-21",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3bf029d0-9149-447e-9ceb-7128ef15218c",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_34",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-02-11",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3d6ce3e2-f4bd-48cf-8307-db6e594b279b",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_8",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-08-12",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3e3a9171-6915-46e0-ae53-2f1af9f56f3f",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_23",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-04-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "3fc7b738-e336-40b3-b2d1-b384fcd6d078",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_47",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-11-12",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4345d679-5d4e-44b8-a897-be1fc8db1e51",
+          "amount": 165000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_rent_demo_monthly_6",
+          "medium": "balance",
+          "merchant_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-04-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4c3fa8b4-0b2b-454a-8a52-54c3e2189bc5",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_39",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-01-07",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "4d05e41f-9e2e-46b3-9c0a-e275b83a570c",
+          "amount": 165000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_rent_demo_monthly_9",
+          "medium": "balance",
+          "merchant_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-01-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "58c2d935-956c-4886-a723-0ef5e635980b",
+          "amount": 165000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_rent_demo_monthly_7",
+          "medium": "balance",
+          "merchant_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-03-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "594855e2-383d-4908-9eb2-9b87b75d00d0",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_20",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-05-20",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "65b27904-57ea-46d5-9ff7-4dcc3f3eb380",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_46",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-11-19",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6648a147-e916-4e81-bbbc-ca15b09b3ab8",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_15",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-06-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6fba76b2-cef3-4e02-8278-fcb0036d5c88",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_26",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-04-08",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "6fc08abf-d461-42d0-837b-f653e0ffe350",
+          "amount": 18000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_insurance_demo_monthly_6",
+          "medium": "balance",
+          "merchant_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-03-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "72f3804f-0c08-426a-8453-f2c40474c0b5",
+          "amount": 165000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_rent_demo_monthly_8",
+          "medium": "balance",
+          "merchant_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-02-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "733531fe-43cf-40be-bfdb-c6a5f254bec0",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_7",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-08-19",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "781eaafb-6724-4b84-a001-12f8b0d4bf3a",
+          "amount": 165000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_rent_demo_monthly_4",
+          "medium": "balance",
+          "merchant_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-06-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "78eda641-9560-42b6-94d9-dbb14f91452b",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_4",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-09-09",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "81bd5650-d959-44ce-b11c-1657887a1be0",
+          "amount": 18000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_insurance_demo_monthly_11",
+          "medium": "balance",
+          "merchant_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-10-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "826f7b4f-7874-4cbf-bc43-239dc553d931",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_40",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-12-31",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "8345f946-e8fc-478a-825a-d43982a0d25b",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_43",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-12-10",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "8457f8d3-3389-4a07-85aa-61eb29112b3e",
+          "amount": 18000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_insurance_demo_monthly_0",
+          "medium": "balance",
+          "merchant_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-09-21",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "87e819a4-6a56-4f90-95c8-4c74b7376843",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_48",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-11-05",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "88343dd4-7456-443a-a43c-3f6ec72af3e5",
+          "amount": 18000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_insurance_demo_monthly_3",
+          "medium": "balance",
+          "merchant_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-06-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "8c17c35b-ad22-4283-b733-c3b67fa6871e",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_5",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-09-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "8d7e51d7-0caa-4b52-865e-382cf559d8a0",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_14",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-07-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "8e5e4f10-1806-4f8b-9ed5-3e5ad42e355a",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_6",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-08-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "8fba844c-1967-4a22-b567-23a30750e2b4",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_41",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-12-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "92982e2f-34db-4c9a-b0f0-6e0223e1a912",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_1",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-09-30",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "94e2ce12-a252-446b-bb82-dbf1af9b45f2",
+          "amount": 18000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_insurance_demo_monthly_5",
+          "medium": "balance",
+          "merchant_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-04-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "968db456-d1e9-4b1e-975e-d578e2adbcc3",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_29",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-03-18",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "985468f9-c2be-4661-8546-29754a21bc7e",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_11",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-07-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9a8ccce8-3269-43d2-9ee7-3560c74bda2b",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_24",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-04-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9d5e223a-ad5c-40d0-b49b-1690c0e3da46",
+          "amount": 18000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_insurance_demo_monthly_1",
+          "medium": "balance",
+          "merchant_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-08-22",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "9eea2093-5e16-409c-adf9-c6b766c1697f",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_12",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-07-15",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "a306ca1d-ee05-49ab-9491-e4771b6d3e96",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_19",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-05-27",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ab6507ec-468f-4c97-b286-c388ac5704b2",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_0",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-10-07",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ae353d27-f4d4-4cef-b842-9c117084cea1",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_10",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-07-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "b74dd046-111d-46de-b73a-e1f635f354df",
+          "amount": 18000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_insurance_demo_monthly_7",
+          "medium": "balance",
+          "merchant_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-02-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "b81b9659-3d34-483b-bce7-c1fe686d2178",
+          "amount": 18000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_insurance_demo_monthly_4",
+          "medium": "balance",
+          "merchant_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-05-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "bc1aae83-2090-4361-ac68-3110f6ae8479",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_25",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-04-15",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "bd9e0b98-554d-4211-a0fa-5fc94626198f",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_42",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-12-17",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "beae73c3-2c96-47c5-85d7-e968b892b126",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_36",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-01-28",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c2f4819e-7eed-431e-9407-a6c107165f68",
+          "amount": 165000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_rent_demo_monthly_1",
+          "medium": "balance",
+          "merchant_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-08-30",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c9609e23-d644-4b14-b568-14238e12690b",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_30",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-03-11",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c9928e66-6724-4627-9162-5d00577599a1",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_45",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-11-26",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "c9b6b382-5343-4041-ba20-01625fd69789",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_17",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-06-10",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ce737551-3f99-4c75-b48b-cf4e23f6d441",
+          "amount": 165000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_rent_demo_monthly_3",
+          "medium": "balance",
+          "merchant_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-07-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d08de214-0a31-4fc9-85f3-421cbf42f28f",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_3",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-09-16",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d1771068-4365-442d-a0cc-b85e52fca2c6",
+          "amount": 11250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_16",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-06-17",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d4a6c238-94f5-4326-9e14-7730d22444b2",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_51",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-10-15",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "d55e45b4-3a2b-4e5e-bacb-0f7fc58f033a",
+          "amount": 18000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_insurance_demo_monthly_9",
+          "medium": "balance",
+          "merchant_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-12-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "da278997-fafd-45aa-944e-9e7d7d604583",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_49",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-10-29",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "daed3ddd-3f2c-43b0-8498-333ebe1e1ef0",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_2",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-09-23",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "dd74bdd8-6afe-4063-a4d4-aac6f63845d6",
+          "amount": 165000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_rent_demo_monthly_11",
+          "medium": "balance",
+          "merchant_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-11-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "de12fe65-b66c-444b-aec7-50a8552d59f9",
+          "amount": 31250,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_27",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-04-01",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "e2195385-21c4-417e-a064-a173d5f5e490",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_18",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-06-03",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "e43ffd6e-5293-4786-92e2-50684484c311",
+          "amount": 18000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_insurance_demo_monthly_10",
+          "medium": "balance",
+          "merchant_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2025-11-25",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "e49c1c03-04c8-4a44-9bc7-e805d82e74d9",
+          "amount": 22500,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_22",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-05-06",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "e9f39768-70f7-401e-b48f-7e5219c950e9",
+          "amount": 165000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_rent_demo_monthly_5",
+          "medium": "balance",
+          "merchant_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-05-02",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "ec83d141-dc68-4d8e-8f5c-0f4c67219846",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_9",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-08-05",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f6675b47-f59f-423a-ad99-ab76d676ba05",
+          "amount": 18000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_insurance_demo_monthly_8",
+          "medium": "balance",
+          "merchant_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-01-24",
+          "status": "completed",
+          "type": "merchant"
+        },
+        {
+          "_id": "f88bd645-a096-4534-ac96-21e7ace215de",
+          "amount": 35000,
+          "description": "Synthetic dc41eaea75cb demo_monthly_spend_33",
+          "medium": "balance",
+          "merchant_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+          "payer_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+          "purchase_date": "2026-02-18",
+          "status": "completed",
+          "type": "merchant"
+        }
+      ],
+      "transfers": [],
+      "withdrawals": []
+    }
+  ],
+  "as_of": "2026-10-09",
+  "base_url": "https://prod-api.nessieisreal.com",
+  "customer": {
+    "_id": "27dc775c-a552-453f-831b-5cf060de367c",
+    "address": {
+      "city": "McLean",
+      "state": "VA",
+      "street_name": "Synthetic Seed dc41eaea75cb demo_monthly",
+      "street_number": "100",
+      "zip": "22102"
+    },
+    "first_name": "Ellis",
+    "last_name": "Synthetic Seed dc41eaea75cb"
+  },
+  "ingested_at": "2026-10-09T22:18:06.428402+00:00",
+  "merchants": [
+    {
+      "_id": "8a385201-f410-461a-82ab-d31fbaa1e8dd",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed dc41eaea75cb demo_monthly",
+        "street_number": "201",
+        "zip": "22102"
+      },
+      "category": "insurance",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "Geico"
+    },
+    {
+      "_id": "8caeea3c-4156-4ed1-8ab5-118ce5b99926",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed dc41eaea75cb demo_monthly",
+        "street_number": "200",
+        "zip": "22102"
+      },
+      "category": "housing",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "Rent"
+    },
+    {
+      "_id": "ebb6e91f-0885-41e0-b876-50e619f31fda",
+      "address": {
+        "city": "McLean",
+        "state": "VA",
+        "street_name": "Synthetic Seed dc41eaea75cb demo_monthly",
+        "street_number": "202",
+        "zip": "22102"
+      },
+      "category": "food",
+      "geocode": {
+        "lat": 38.9339,
+        "lng": -77.1773
+      },
+      "name": "Grocer"
+    }
+  ],
+  "schema_version": 1,
+  "source": "nessie",
+  "unavailable_collections": [
+    {
+      "account_id": "c296d879-cc35-4398-b763-5e59c2e4a22a",
+      "collection": "transfers",
+      "status": 404
+    }
+  ],
+  "unavailable_merchants": []
+}
