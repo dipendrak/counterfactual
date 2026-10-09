@@ -1,0 +1,155 @@
+{
+  "customer_id": "fixture_customer_01",
+  "opening_balance": 2310.4,
+  "fit_window_days": 365,
+  "income": {
+    "cadence_days": 14,
+    "mean": 1850.0,
+    "std": 120.0,
+    "next_due_day": 6,
+    "evidence": [
+      "txn_inc_001",
+      "txn_inc_002",
+      "txn_inc_003",
+      "txn_inc_004"
+    ]
+  },
+  "recurring": [
+    {
+      "obligation_id": "rec_01",
+      "label": "Rent",
+      "merchant_id": "m_rent",
+      "amount": 1450.0,
+      "cadence_days": 30,
+      "next_due_day": 1,
+      "evidence": [
+        "txn_rent_001",
+        "txn_rent_002",
+        "txn_rent_003"
+      ],
+      "essential": true
+    },
+    {
+      "obligation_id": "rec_02",
+      "label": "Car payment",
+      "merchant_id": "m_auto",
+      "amount": 389.0,
+      "cadence_days": 30,
+      "next_due_day": 15,
+      "evidence": [
+        "txn_auto_001",
+        "txn_auto_002",
+        "txn_auto_003"
+      ],
+      "essential": true
+    },
+    {
+      "obligation_id": "rec_03",
+      "label": "Student loan",
+      "merchant_id": "m_loan",
+      "amount": 310.0,
+      "cadence_days": 30,
+      "next_due_day": 22,
+      "evidence": [
+        "txn_loan_001",
+        "txn_loan_002",
+        "txn_loan_003"
+      ],
+      "essential": true
+    },
+    {
+      "obligation_id": "rec_04",
+      "label": "Geico",
+      "merchant_id": "m_geico",
+      "amount": 142.0,
+      "cadence_days": 30,
+      "next_due_day": 12,
+      "evidence": [
+        "txn_geico_001",
+        "txn_geico_002",
+        "txn_geico_003"
+      ],
+      "essential": false
+    },
+    {
+      "obligation_id": "rec_05",
+      "label": "Verizon",
+      "merchant_id": "m_phone",
+      "amount": 85.0,
+      "cadence_days": 30,
+      "next_due_day": 8,
+      "evidence": [
+        "txn_phone_001",
+        "txn_phone_002"
+      ],
+      "essential": false
+    },
+    {
+      "obligation_id": "rec_06",
+      "label": "Planet Fitness",
+      "merchant_id": "m_gym",
+      "amount": 45.0,
+      "cadence_days": 30,
+      "next_due_day": 3,
+      "evidence": [
+        "txn_gym_001",
+        "txn_gym_002"
+      ],
+      "essential": false
+    },
+    {
+      "obligation_id": "rec_07",
+      "label": "Netflix",
+      "merchant_id": "m_netflix",
+      "amount": 15.49,
+      "cadence_days": 30,
+      "next_due_day": 19,
+      "evidence": [
+        "txn_nflx_001",
+        "txn_nflx_002"
+      ],
+      "essential": false
+    }
+  ],
+  "discretionary": {
+    "weekly_mean": 240.0,
+    "weekly_std": 85.0,
+    "by_category": {
+      "food": 0.42,
+      "shopping": 0.31,
+      "other": 0.27
+    },
+    "evidence": [
+      "txn_disc_001",
+      "txn_disc_002",
+      "txn_disc_003"
+    ]
+  },
+  "evidence_index": [
+    "txn_inc_001",
+    "txn_inc_002",
+    "txn_inc_003",
+    "txn_inc_004",
+    "txn_rent_001",
+    "txn_rent_002",
+    "txn_rent_003",
+    "txn_auto_001",
+    "txn_auto_002",
+    "txn_auto_003",
+    "txn_loan_001",
+    "txn_loan_002",
+    "txn_loan_003",
+    "txn_geico_001",
+    "txn_geico_002",
+    "txn_geico_003",
+    "txn_phone_001",
+    "txn_phone_002",
+    "txn_gym_001",
+    "txn_gym_002",
+    "txn_nflx_001",
+    "txn_nflx_002",
+    "txn_disc_001",
+    "txn_disc_002",
+    "txn_disc_003"
+  ]
+}

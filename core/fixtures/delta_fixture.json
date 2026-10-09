@@ -1,0 +1,9 @@
+{
+  "kind": "one_time",
+  "amount": 1400.00,
+  "start_day": 64,
+  "cadence_days": null,
+  "label": "flight in December",
+  "raw_text": "should I take the $1400 flight to see my family in december",
+  "confidence": 0.91
+}
