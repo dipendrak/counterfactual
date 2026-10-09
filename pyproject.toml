@@ -2,10 +2,20 @@
 name = "counterfactual"
 version = "0.1.0"
 requires-python = ">=3.11"
-dependencies = ["numpy>=1.26"]
+dependencies = ["numpy>=1.26", "fastapi>=0.115,<1", "httpx>=0.27,<1", "uvicorn>=0.30,<1", "python-dotenv>=1,<2"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["core*", "data*", "api*"]
+
+[tool.setuptools.package-data]
+core = ["fixtures/*.json"]
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]
 
 [tool.pytest.ini_options]
-testpaths = ["core/tests"]
+testpaths = ["core/tests", "data/tests", "api/tests"]
